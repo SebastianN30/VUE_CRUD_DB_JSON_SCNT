@@ -1,2 +1,24 @@
-# VUE_CRUD_DB_JSON_SCNT
-Crud de vue conectado a una base de datos y una api generada con la bd
+# crudvue
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
